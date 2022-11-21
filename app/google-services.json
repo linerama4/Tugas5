@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562871844537",
+    "project_id": "logon-446bd",
+    "storage_bucket": "logon-446bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562871844537:android:efda8ab6002848e0002568",
+        "android_client_info": {
+          "package_name": "com.must.nano3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562871844537-88rg05k84srnpcocpacghv2b07cc8a0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRTqVZ-LQzSWdX2NicKStXV15CKZWPgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562871844537-88rg05k84srnpcocpacghv2b07cc8a0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
